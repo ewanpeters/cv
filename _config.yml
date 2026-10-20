@@ -1,0 +1,15 @@
+title: Ewan Peters
+description: VP Solution Architect
+email: ewanwpeters@gmail.com
+linkedin_username: ewanpeters
+github_username: ewanpeters
+
+theme: minima
+
+header_pages:
+  - qualifications-and-skills.md
+  - achievements.md
+  - professional-experience.md
+
+exclude:
+  - README.md

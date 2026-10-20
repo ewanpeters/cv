@@ -1,3 +1,3 @@
 # Ewan Peters — CV
 
-VP Solution Architect. My full CV is in the [wiki](https://github.com/ewanpeters/cv/wiki).
+VP Solution Architect. My full CV is at [ewanpeters.github.io/cv](https://ewanpeters.github.io/cv/).
