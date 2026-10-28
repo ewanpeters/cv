@@ -6,6 +6,7 @@ permalink: /qualifications-and-skills/
 
 ## Qualifications
 
+- Claude Certified Architect - Professional
 - CompTIA Security+
 - AWS Certified AI Practitioner
 - AWS Certified Solutions Architect (Associate)
